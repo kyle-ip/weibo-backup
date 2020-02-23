@@ -42,6 +42,22 @@ Response:
 
 
 
+Original weibo screenshot:
+
+<center>
+
+![image-20200222140049840](https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/blog/weibo-backup-origin.jpg?x-oss-process=image/resize,p_50)
+
+</center>
+
+Backup Images:
+
+<center>
+
+![image-20200222140049840](https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/blog/weibo-backup-bak.jpg?x-oss-process=image/resize,p_50)
+
+</center>
+
 ## License
 
 See LICENSE file.

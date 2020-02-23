@@ -6,7 +6,6 @@ import os
 import json
 import time
 
-from starlette.responses import Response
 from fastapi import FastAPI
 from PIL import Image
 from lxml import etree
@@ -15,7 +14,6 @@ BASE_PATH = os.path.join(
     os.path.dirname(
         os.path.abspath(__file__)
     )
-
     , "img"
 )
 
