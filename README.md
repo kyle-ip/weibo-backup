@@ -6,7 +6,7 @@
 
 ## Introduction
 
-A simple script to contert weibo (mobile)  to long image for backup.
+A simple script to convert weibo (mobile)  to long image for backup.
 
 
 
@@ -41,12 +41,11 @@ Response:
 ```
 
 
-
 Original weibo screenshot:
 
 <center>
 
-![image-20200222140049840](https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/blog/weibo-backup-origin.jpg?x-oss-process=image/resize,p_50)
+![image-20200222140049840](https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/blog/weibo-backup-origin.jpg?x-oss-process=image/resize,p_30)
 
 </center>
 
@@ -54,7 +53,7 @@ Backup Images:
 
 <center>
 
-![image-20200222140049840](https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/blog/weibo-backup-bak.jpg?x-oss-process=image/resize,p_50)
+![image-20200222140049840](https://ywh-oss.oss-cn-shenzhen.aliyuncs.com/blog/weibo-backup-bak.jpg?x-oss-process=image/resize,p_30)
 
 </center>
 
