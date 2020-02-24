@@ -18,7 +18,7 @@ Module Installation:
 pip install -r requirements.txt
 ```
 
-Run HTTP Sercvice: 
+HTTP Server: 
 
 ```shell
 uvicorn main:app --reload
@@ -41,7 +41,7 @@ Response:
 ```
 
 
-Original weibo screenshot:
+original weibo screenshot:
 
 <center>
 
@@ -49,7 +49,7 @@ Original weibo screenshot:
 
 </center>
 
-Backup Images:
+backup image:
 
 <center>
 
