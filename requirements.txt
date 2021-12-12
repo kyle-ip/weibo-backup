@@ -6,7 +6,7 @@ dataclasses==0.7
 fastapi==0.49.0
 h11==0.9.0
 idna==2.8
-lxml==4.5.0
+lxml==4.6.3
 Pillow==7.1.0
 pydantic==1.4
 requests==2.22.0
